@@ -1,4 +1,3 @@
-![Password-Generator](https://user-images.githubusercontent.com/74144055/111871742-c713f280-8959-11eb-9eaa-e3aa5d1bd1fd.png)
 # Password_Generator
 
 Here is my Password Generator.<br><br> 
