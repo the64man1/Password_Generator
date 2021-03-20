@@ -44,7 +44,7 @@ function generatePassword() {
   var hasSpecialCharacters = confirm("Press OK if you would like your password to include special characters.");
   
   if (!hasLowerCase && !hasUpperCase && !hasNumbers && !hasSpecialCharacters) {
-    alert("At least one option must be selected for your password");
+    alert("At least one option must be selected for your password.");
     return;
   }
   
