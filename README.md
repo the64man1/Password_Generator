@@ -6,7 +6,7 @@ Users must enter a length between 8-128 characters for their password, and selec
 
 The generated password appears in the box above the button. Users can press the button and restart the program to generate a new password.<br><br>
 
-I modified the starter code so that, if the program terminates because a user did not either cancelled the program during length selection, or did not select at least one character type, the placeholder text is not replaced be"undefined".<br><br>
+I modified the starter code so that, if the program terminates because a user did either cancelled the program during length selection, or did not select at least one character type, the placeholder text is not replaced be"undefined".<br><br>
 
 Link to the website hosting the program: https://the64man1.github.io/Password_Generator/ <br>
 Link to Github where source files are hosted: https://github.com/the64man1/Password_Generator/
