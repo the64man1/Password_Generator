@@ -9,7 +9,7 @@ The generated password appears in the box above the button. Users can press the 
 I modified the starter code so that, if the program terminates because a user did either cancelled the program during length selection, or did not select at least one character type, the placeholder text is not replaced be"undefined".<br><br>
 
 Link to the website hosting the program: https://the64man1.github.io/Password_Generator/ <br>
-Link to Github where source files are hosted: https://github.com/the64man1/Password_Generator/ <br><br>
+Link to Github where source files are hosted: https://github.com/the64man1/Password_Generator/ <br>
 
 HMTL5, CSS3, and JavaScript were used in this project
 
