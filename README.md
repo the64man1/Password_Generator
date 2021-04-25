@@ -11,4 +11,8 @@ I modified the starter code so that, if the program terminates because a user di
 Link to the website hosting the program: https://the64man1.github.io/Password_Generator/ <br>
 Link to Github where source files are hosted: https://github.com/the64man1/Password_Generator/ <br><br>
 
+HMTL5, CSS3, and JavaScript were used in this project
+
+Contact me at aqprogrammer@gmail, or on Google Voice at (430) 888-0141‬
+
 ![Password-Generator](https://user-images.githubusercontent.com/74144055/111871752-d4c97800-8959-11eb-85ac-bfd4ddf3ef12.png)
